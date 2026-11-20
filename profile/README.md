@@ -1,3 +1,1 @@
-# propback
-
-Practical tools for game communities.
+- [mcsr-analysis](https://github.com/propback/mcsr-analysis) — MCSR Ranked replay analysis: bastion route usage, piglin aggro, and seed-based bastion maps
